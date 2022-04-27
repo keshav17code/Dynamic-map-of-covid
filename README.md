@@ -1,0 +1,2 @@
+# Dynamic-map-of-covid
+Dynamic map of covid-19 cases using some python libraries I have done a project under Stanford University CODE IN PLACE 2021. I have created a Dynamic map of covid cases till 27/05/2021.collected data from John Hopkins University which is updated on daily basis through git hub - https://github.com/CSSEGISandData/COVID-19,And i have used SPYDER as Python IDE. I have done data analysis by using some python libraries which is most common in the data science field. This was displayed on Stanford University CODE IN PLACE 2021website under Projects
